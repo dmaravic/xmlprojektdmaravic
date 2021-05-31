@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+    <Korisnik>
+	    <Korisnickoime>Korisnik1</Korisnickoime>
+	    <Lozinka>asdfg</Lozinka>
+	    <Ime>Dario</Ime>
+        <Prezime>Maravić</Prezime>
+    </Korisnik>
+    <Korisnik>
+	    <Korisnickoime>Korisnik2</Korisnickoime>
+	    <Lozinka>qwert</Lozinka>
+	    <Ime>Ivan</Ime>
+        <Prezime>Horvat</Prezime>
+    </Korisnik>
+    <Korisnik>
+	    <Korisnickoime>Korisnik3</Korisnickoime>
+	    <Lozinka>yxcvb</Lozinka>
+	    <Ime>Maja</Ime>
+        <Prezime>Majić</Prezime>
+    </Korisnik>
+    <Korisnik>
+	    <Korisnickoime>Korisnik4</Korisnickoime>
+	    <Lozinka>tzuio</Lozinka>
+	    <Ime>Mirko</Ime>
+        <Prezime>Mirić</Prezime>
+    </Korisnik>
+    <Korisnik>
+	    <Korisnickoime>Korisnik5</Korisnickoime>
+	    <Lozinka>ghjkl</Lozinka>
+	    <Ime>Sven</Ime>
+        <Prezime>Svenić</Prezime>
+    </Korisnik>
+</Korisnici>
